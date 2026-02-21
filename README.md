@@ -2,9 +2,8 @@
 
 Hey there 👋
 
-AWS Certified Cloud Practitioner and aspiring DevOps Engineer with hands-on experience in building and deploying scalable cloud-based applications. Skilled in Linux, Shell Scripting, Git & GitHub, Terraform, Docker, CI/CD pipelines, and Python. Passionate about cloud architecture, automation, and developing efficient, production-ready systems on AWS.
+AWS Certified Cloud Practitioner and aspiring Cloud & DevOps Engineer with hands-on experience in building and deploying scalable cloud-based applications. Skilled in Linux, Shell Scripting, Git & GitHub, Terraform, Docker, CI/CD pipelines, and Python. Passionate about cloud architecture, automation, and developing efficient, production-ready systems on AWS.
 
-_______________________________________________________________________________________________________________
 💼My Skill Set
 <img width="1506" height="360" alt="ChatGPT Image Feb 21, 2026, 04_06_16 PM" src="https://github.com/user-attachments/assets/ae5e4d90-e26a-4e82-81d5-ae1f3de7c009" />
 
